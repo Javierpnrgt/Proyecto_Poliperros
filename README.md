@@ -15,10 +15,10 @@ Poliperros es una herramienta diseñada para la gestión de datos de los perros 
    [Descargar Poliperros.exe](https://github.com/Javierpnrgt/Proyecto_Poliperros/raw/refs/heads/main/Poliperros.exe)
 
 2. **Gestión de permisos:**  
-   Al iniciar la descarga, el navegador podría solicitar una confirmación de seguridad; se debe seleccionar **"Aceptar"** o **"Conservar"**.
+   Al iniciar la descarga, el navegador podría solicitar una confirmación de seguridad; se debe seleccionar **"Aceptar archivo sin verificación"**.
 
 3. **Ejecución en Windows:**  
-   Al abrir el archivo, si aparece la ventana de protección de Windows, el usuari
+    Al abrir el archivo, si aparece una ventana azul de aviso, haz clic en **"Más información"** y luego en el botón **"Ejecutar de todas formas"**.
 
 4. **¡Listo!** El programa se descargo.
 
